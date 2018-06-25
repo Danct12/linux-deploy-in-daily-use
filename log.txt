@@ -1,0 +1,28 @@
+Day 1: June 22, 2018
+
+The first day of Linux Deploy, after installed it at home, I went back home from school, instead of going back to home, I went to a shop stop to just use it.
+
+The first day of using it, there was pretty much not ready setup yet. I have to install base-devel just to be able to compile stuffs.
+
+I thought that I was be able to compile programs out of the box from AUR, but I was wrong, there was a error with fakeroot, which telling me that function is not implemented, turns out to be my kernel (that comes with RR 6) doesn't support the function that fakeroot uses.
+
+With that being said, I gone plan B, fakeroot-tcp. This simulates fakeroot, which is a win win, but sadly I have to gone through modifications.
+
+After done, I built the package and install, and there, I was able to compile stuffs from AUR just fine.
+
+I compiled DockbarX and DockbarX plugin for XFCE, both going without any problem, but except that I have to edit PKGBUILD to support aarch64, which is my architecture that the phone is running on.
+
+Second problem is, Midori doesn't work properly on this, it keeps crashing everytime I open a website, so I installed firefox and it works just fine.
+
+Third problem is, my favorite text editor (NeoVim) doesn't exist on aarch64 for ARM, but I'm saving it for the another day.
+
+
+Day 2: June 25, 2018
+
+Back from the English school, here I am back again.
+
+I compiled NeoVim, it was a very slow task due to makepkg running on one thread, I forgot to edit it.
+
+Works fine, no issue.
+
+
