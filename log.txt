@@ -39,4 +39,8 @@ I removed some unused packages just to save some spaces, it is amazing that a to
 
 I got dunst up and configured.
 
-Just to entertain my self, I installed xbill (old X11 game) just to have some fun tapping bills :)
+Just to entertain my self, I installed xbill (old X11 game) just to have some fun tapping bills, but also I got it to play soilitare! How cool is that! :D
+
+End of the day, I think it's a decent netbook if you have rooted it and run Linux, I'd suggest you to have root and install Linux Deploy Arch, this might turn your phone into a decent 2 in 1 netbook that you can also call, sms, and be able to run linux applications too.
+
+
