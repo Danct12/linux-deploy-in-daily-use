@@ -25,4 +25,18 @@ I compiled NeoVim, it was a very slow task due to makepkg running on one thread,
 
 Works fine, no issue.
 
+Day 3: June 27, 2018
 
+God dang it! How much I hate Android system, I cannot unbind the Super (Windows) key and the Alt key just to make applications use it, whenever I want to do alt tab in XServer XSDL, it'll keep going to the android recent menu.
+
+But I have a fix for that, it's a temporary work around, i know it's dumb but it works. By editing /system/usr/kblayouts/Generic.kl, I bound the Windows key to Volume Up and the Alt key to Volume Down, then changing the settings inside Linux Deploy to bind both keys to them. Now I have a working Super and Alt key for me to use!
+
+As because it worked, I installed i3-gaps to replace XFCE, and here I am!
+
+I uninstalled Midori and Firefox because it was laggy and installed Chromium instead, the performance on Chromium is quite better than others.
+
+I removed some unused packages just to save some spaces, it is amazing that a ton of spaces was used and left me with 3.5 GB, hopefully i'll extend that some time in the future.
+
+I got dunst up and configured.
+
+Just to entertain my self, I installed xbill (old X11 game) just to have some fun tapping bills :)

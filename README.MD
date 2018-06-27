@@ -1,5 +1,7 @@
 # Linux Deploy in a daily life
 
+**UNLOCKING BOOTLOADER, ROOT, MODDING YOUR DEVICE WILL VOID YOUR WARRANTY, YOU HAVE BEEN WARNED!**
+
 This is my own experiment on using Linux Deploy by meefik as something like a portable laptop in everyday life.
 
 Hardware:
@@ -11,7 +13,7 @@ Linux Deploy settings:
 - Distro: **Arch Linux ARM**
 - Architecture: aarch64 (arm64)
 - HDD Size: 6800 MB
-- Desktop: XFCE
+- Desktop: i3-gaps
 - SSH: Enabled
 
 # Image of the setup
