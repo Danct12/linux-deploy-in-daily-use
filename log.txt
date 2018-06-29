@@ -43,4 +43,30 @@ Just to entertain my self, I installed xbill (old X11 game) just to have some fu
 
 End of the day, I think it's a decent netbook if you have rooted it and run Linux, I'd suggest you to have root and install Linux Deploy Arch, this might turn your phone into a decent 2 in 1 netbook that you can also call, sms, and be able to run linux applications too.
 
+Day 4: June 28, 2018
 
+I got the battery reporting system to work with i3status, the uevent file is located in /sys/class/power_supply/battery/uevent
+
+Chromium on this phone doesn't play videos, it'll just show a few frames of it and then freezes. So a workaround is to use mpv + youtube-dl.
+
+I just extended the disk image from 6.8 GB to 13 GB, I did this because the space was running out and I need more space on doing this experiment.
+
+The next thing I should try to do is to get Wine/x86 on ARM, this way, I can play Windows XP Solitaire (my favorite actually), and might be able to install BonziBUDDY. It might be a fun thing to do, but will also be fun on getting it to work, the thing I have to do is to compile QEMU with NPTL patch.
+
+I tried to emulate NES, SNES so I can play Super Mario World, but sadly the results aren't happy.
+
+SNES9x is on Arch Linux ARM repo, but sadly it doesn't boot to any games, all it boot to was just a plain black screen, no error messages in the terminal, that's pretty much it, just a black screen.
+
+higen cannot do SDL, when I launch it with video as SDL, it crashes.
+
+mednafen crashes on startup.
+
+Turns out it's not my fault but rather a problem with ARM processors, so the idea of playing Mario on a Linux phone is no more.
+
+Day 5: (June 29, 2018)
+
+I just installed SuperTux 2, it's the good game I have played on the phone, but also playable as well, it's quite fun, it runs at 60 fps.
+
+I still haven't setup Wine on ARM yet, that's because I don't have time to compile it, it takes a whole load of time because of Linux Deploy runs on a core (even if it's chrooted), I have made a issue on meefik's github ( https://github.com/meefik/linuxdeploy/issues/973 )
+
+The next thing I'll do is to setup VirtualGL (on my host computer), so I can run OpenGL applications, it might be a bit laggy but it's not going to be really bad (hopefully). :)
