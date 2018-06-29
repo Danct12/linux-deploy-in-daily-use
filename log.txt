@@ -70,3 +70,7 @@ I just installed SuperTux 2, it's the good game I have played on the phone, but 
 I still haven't setup Wine on ARM yet, that's because I don't have time to compile it, it takes a whole load of time because of Linux Deploy runs on a core (even if it's chrooted), I have made a issue on meefik's github ( https://github.com/meefik/linuxdeploy/issues/973 )
 
 The next thing I'll do is to setup VirtualGL (on my host computer), so I can run OpenGL applications, it might be a bit laggy but it's not going to be really bad (hopefully). :)
+
+I found a way to change the brightness for the LCD screen, it's at /sys/class/leds/lcd-backlight/brightness 
+
+Just echo the value to there and the brightness will be changed, you probably can use this to change the brightness without using the slider from Android, or make use of some programs like xbacklight.
