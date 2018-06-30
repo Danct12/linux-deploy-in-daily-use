@@ -1,4 +1,4 @@
-Day 1: June 22, 2018
+Day 1: (June 22, 2018)
 
 The first day of Linux Deploy, after installed it at home, I went back home from school, instead of going back to home, I went to a shop stop to just use it.
 
@@ -17,7 +17,7 @@ Second problem is, Midori doesn't work properly on this, it keeps crashing every
 Third problem is, my favorite text editor (NeoVim) doesn't exist on aarch64 for ARM, but I'm saving it for the another day.
 
 
-Day 2: June 25, 2018
+Day 2: (June 25, 2018)
 
 Back from the English school, here I am back again.
 
@@ -25,7 +25,7 @@ I compiled NeoVim, it was a very slow task due to makepkg running on one thread,
 
 Works fine, no issue.
 
-Day 3: June 27, 2018
+Day 3: (June 27, 2018)
 
 God dang it! How much I hate Android system, I cannot unbind the Super (Windows) key and the Alt key just to make applications use it, whenever I want to do alt tab in XServer XSDL, it'll keep going to the android recent menu.
 
@@ -43,7 +43,7 @@ Just to entertain my self, I installed xbill (old X11 game) just to have some fu
 
 End of the day, I think it's a decent netbook if you have rooted it and run Linux, I'd suggest you to have root and install Linux Deploy Arch, this might turn your phone into a decent 2 in 1 netbook that you can also call, sms, and be able to run linux applications too.
 
-Day 4: June 28, 2018
+Day 4: (June 28, 2018)
 
 I got the battery reporting system to work with i3status, the uevent file is located in /sys/class/power_supply/battery/uevent
 
@@ -74,3 +74,18 @@ The next thing I'll do is to setup VirtualGL (on my host computer), so I can run
 I found a way to change the brightness for the LCD screen, it's at /sys/class/leds/lcd-backlight/brightness 
 
 Just echo the value to there and the brightness will be changed, you probably can use this to change the brightness without using the slider from Android, or make use of some programs like xbacklight.
+
+Day 6: (June 30, 2018)
+I have setup a virtual machine runs Debian 9, it uses 4 cores and 2 GB of RAM on my home PC. I did set up X11 Forwarding, SSH and port forwarded my virtual machine to the internet.
+
+Now I can use my virtual machine when I'm not at home, and also be able to connect to my home PC too!
+
+I run serveral programs on my VM (check sshx11.png in the Pictures folder) and actually it works quite well, but slow a little bit. Because of this, I set up a VNC server on it and connect to it, the internet here is bad, so I connected to it with the crappiest graphics setting, like 8 colors, compressions to the max, blah blah.
+
+I was able to play Super Mario World on it! (check SMWVNC1, 2 , 3 .png) but not at full performance, but you know what? It works.
+
+I cannot run firefox through X11 Forwarding tho, firefox keeps telling me that it wasnt respond and tell me to kill it, so I used midori to open my VNC port.
+
+I can also run a desktop version of Discord on my home PC! But it takes too long to load so I quit doing it (see discordhome.png).
+
+For glxgears fps, see vncglxgears.png
