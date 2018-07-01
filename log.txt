@@ -89,3 +89,17 @@ I cannot run firefox through X11 Forwarding tho, firefox keeps telling me that i
 I can also run a desktop version of Discord on my home PC! But it takes too long to load so I quit doing it (see discordhome.png).
 
 For glxgears fps, see vncglxgears.png
+
+Day 7: (July 1, 2018)
+
+Back with it again, I got Kdenlive running on ARM, it actually works but I don't recommend you to use it as a mini video editing machine. Android is rude at resource giving, because they only left you with a little bit resource (a gig) at least on a 3 GB machine here, and since Linux Deploy only runs on single-core, rendering movie will be a pain, so good luck doing it. :D (fyi the video takes 2 minutes to done rendering)
+
+For proof see kdenlivearm.png
+
+Also, finally someone notice me using a phone PC.
+
+I might recommend you to use a phone with large RAM, like around 4 or 6 GB, that might let you a ton resources, but why do it when you can bring a giant laptop or a netbook.
+
+Ok, that was it, that's something big I done today.
+
+But if you want proof for the video rendered on Kdenlive ARM, check out kdenlivesample.webm
