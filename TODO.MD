@@ -13,5 +13,5 @@
 - [X] Play software rendered games
 - [ ] Wine/x86 on ARM
 - [ ] Emulate computer architectures
-- [ ] Run Linux with more than a core
+- [X] Run Linux with more than a core
 

@@ -103,3 +103,15 @@ I might recommend you to use a phone with large RAM, like around 4 or 6 GB, that
 Ok, that was it, that's something big I done today.
 
 But if you want proof for the video rendered on Kdenlive ARM, check out kdenlivesample.webm
+
+Day 8: (July 2, 2018)
+I figured out how to get Linux Deploy to use all cores instead of just one. I downloaded Kernel Adiutor from Google Play, in the settings, disable Core Control from Thermal, then enable all cores in the CPU tab, you probably want to set it to Performance mode and make use of high cpu frequency, this way it'll force all cores to work, thus making it to detect them all. (See cpusystemmonitor.png)
+
+Now you can compile without being in pain! :D
+
+You can check "Apply on Boot" but i'm sure you guys won't since it'll waste battery power, cause you know, Core Control was made to prevent battery consumption, it's pretty much like Speedstep on Intel CPUs.
+
+To reset the settings, you probably want to restart your phone, it'll reset the settings back to default.
+
+I just switched to a new text editor this time, tired of NeoVim, it's called Spac(emacs), I might want to try to learn emacs, but now I'm currently using evil Vi mode. :P
+
