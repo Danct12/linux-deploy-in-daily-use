@@ -115,3 +115,11 @@ To reset the settings, you probably want to restart your phone, it'll reset the 
 
 I just switched to a new text editor this time, tired of NeoVim, it's called Spac(emacs), I might want to try to learn emacs, but now I'm currently using evil Vi mode. :P
 
+Day 9: (July 5, 2018)
+Found a way to do GLX Software Rendering, but that also bug the eff out of all applications, Supertux runs with 2 FPS, before it was 8 FPS on the main menu, and making everything unplayable, Chromium doesn't display anything.
+
+VirtualGL doesn't work at all, GLXInfo segfaulted, glxgears doesn't work and break, I made a issue on VirtualGL github, hopefully there's a way to fix this, or at least, a workaround. I want to play Hacknet on phone! :\
+
+Beside that, I got Arch Linux ARM running on my Zenfone Go (Z00VD) via framebuffer. I have to say that it *actually* works, but with OpenGL being software-rendered, there's no way to do hardware OpenGL on framebuffer, or at least no one did it yet. But I'm sure VirtualGL will work. But I can't use it as a daily driver, because it doesn't support USB OTG (blame ASUS).
+
+Rain's over, going back to home before it's doing it's raining job again.
