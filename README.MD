@@ -11,6 +11,7 @@ Linux Deploy settings:
 - Architecture: aarch64 (arm64)
 - HDD Size: 13870 MB
 - Desktop: i3-gaps
+- Graphics Mode used: [XServer XSDL](https://play.google.com/store/apps/details?id=x.org.server)
 - SSH: Enabled
 
 # Image of the setup

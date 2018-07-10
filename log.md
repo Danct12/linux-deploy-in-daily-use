@@ -8,7 +8,7 @@
 [neovim.io]: https://neovim.io
 [fakeroot-tcp-aur]: https://aur.archlinux.org/packages/fakeroot-tcp
 
-#Day 1: (June 22, 2018)
+# Day 1: (June 22, 2018)
 
 The first day of [Linux Deploy][LinuxDeploy], after installed it at home, I went back home from school, instead of going back to home, I went to a shop stop to just use it.
 
@@ -27,7 +27,7 @@ Second problem is, Midori doesn't work properly on this, it keeps crashing every
 Third problem is, my favorite text editor [NeoVim][neovim.io] doesn't exist on aarch64 for ARM, but I'm saving it for the another day.
 
 
-#Day 2: (June 25, 2018)
+# Day 2: (June 25, 2018)
 
 Back from the English school, here I am back again.
 
@@ -35,7 +35,7 @@ I compiled NeoVim, it was a very slow task due to makepkg running on one thread,
 
 Works fine, no issue.
 
-#Day 3: (June 27, 2018)
+# Day 3: (June 27, 2018)
 
 God dang it! How much I hate Android system, I cannot unbind the Super (Windows) key and the Alt key just to make applications use it, whenever I want to do alt tab in [XServer XSDL][XSDL], it'll keep going to the android recent menu.
 
@@ -53,7 +53,7 @@ Just to entertain my self, I installed xbill (old X11 game) just to have some fu
 
 End of the day, I think it's a decent netbook if you have rooted it and run Linux, I'd suggest you to have root and install Linux Deploy Arch, this might turn your phone into a decent 2 in 1 netbook that you can also call, sms, and be able to run linux applications too.
 
-#Day 4: (June 28, 2018)
+# Day 4: (June 28, 2018)
 
 I got the battery reporting system to work with i3status, the uevent file is located in /sys/class/power_supply/battery/uevent
 
@@ -73,7 +73,7 @@ mednafen crashes on startup.
 
 Turns out it's not my fault but rather a problem with ARM processors, so the idea of playing Mario on a Linux phone is no more.
 
-#Day 5: (June 29, 2018)
+# Day 5: (June 29, 2018)
 
 I just installed SuperTux 2, it's the good game I have played on the phone, but also playable as well, it's quite fun, it runs at 60 fps.
 
@@ -85,7 +85,7 @@ I found a way to change the brightness for the LCD screen, it's at **/sys/class/
 
 Just echo the value to there and the brightness will be changed, you probably can use this to change the brightness without using the slider from Android, or make use of some programs like xbacklight.
 
-#Day 6: (June 30, 2018)
+# Day 6: (June 30, 2018)
 I have setup a virtual machine runs Debian 9, it uses 4 cores and 2 GB of RAM on my home PC. I did set up X11 Forwarding, SSH and port forwarded my virtual machine to the internet.
 
 Now I can use my virtual machine when I'm not at home, and also be able to connect to my home PC too!
@@ -111,7 +111,7 @@ I can also run a desktop version of Discord on my home PC! But it takes too long
 **VNC GLXGears:**
 ![alt text](Pictures/vncglxgears.png "VNC GLXGears")
 
-#Day 7: (July 1, 2018)
+# Day 7: (July 1, 2018)
 
 Back with it again, I got Kdenlive running on ARM, it actually works but I don't recommend you to use it as a mini video editing machine. Android is rude at resource giving, because they only left you with a little bit resource (a gig) at least on a 3 GB machine here, and since Linux Deploy only runs on single-core, rendering movie will be a pain, so good luck doing it. :D (fyi the video takes 2 minutes to done rendering)
 
@@ -125,7 +125,7 @@ Ok, that was it, that's something big I done today.
 
 But if you want proof for the video rendered on Kdenlive ARM, check out kdenlivesample.webm
 
-#Day 8: (July 2, 2018)
+# Day 8: (July 2, 2018)
 I figured out how to get Linux Deploy to use all cores instead of just one. I downloaded [Kernel Adiutor from Google Play][KernelAdiutor], in the settings, disable Core Control from Thermal, then enable all cores in the CPU tab, you probably want to set it to Performance mode and make use of high cpu frequency, this way it'll force all cores to work, thus making it to detect them all.
 ![alt text](Pictures/cpusystemmonitor.png "GNOME System Monitor")
 
@@ -139,7 +139,7 @@ I just switched to a new text editor this time, tired of NeoVim, it's called Spa
 
 **I made a guide on this, check out the Wiki section of this repo**
 
-#Day 9: (July 5, 2018)
+# Day 9: (July 5, 2018)
 Found a way to do GLX Software Rendering, but that also bug the eff out of all applications, Supertux runs with 2 FPS, before it was 8 FPS on the main menu, and making everything unplayable, Chromium doesn't display anything.
 
 VirtualGL doesn't work at all, GLXInfo segfaulted, glxgears doesn't work and break, I made a issue on VirtualGL github, hopefully there's a way to fix this, or at least, a workaround. I want to play Hacknet on phone! :\
@@ -148,7 +148,7 @@ Beside that, I got Arch Linux ARM running on my Zenfone Go (Z00VD) via framebuff
 
 Rain's over, going back to home before it's doing it's raining job again.
 
-#Day 10: (July 9, 2018)
+# Day 10: (July 9, 2018)
 Did a fresh install of Arch Linux ARM, because the previous installation was broken due to me installing MATE desktop and then switch back to i3. What a shame.
 
 I just customized i3status with font-awesome-4 (5 sucks), today I switched to another shop stop nearby, and for me it's a ok-ish experience here, it has another floor which you can see motorbikes and cars running around outside, including people walking around. :)
@@ -157,7 +157,7 @@ I kinda like my new i3 setup tho, not kidding. But this time I don't use the sta
 
 As well, instead of using Thunar, I'm with nautilus because it's a good file manager, I use it on my main PC too.
 
-#Day 11: (July 10, 2018)
+# Day 11: (July 10, 2018)
 Today on, I went on the same place again, and then they see me using this setup. They're interested in it and asking me serveral questions.
 
 That aside, I bought a new wired mouse and keyboard, since the previous wireless keyboard alt key was broken, which is pretty important, the total setup costs 160 000 vnd (about 6$ in US), not including the USB hub because I got one at home, and this one isn't working pretty well, don't know if it's the hub, but i'm sure it is since both kb and mouse decide to give up and disconnect in the same time. (or that might be just my phone circuit protection thing)
