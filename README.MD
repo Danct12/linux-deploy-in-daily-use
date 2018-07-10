@@ -1,9 +1,9 @@
 # Linux Deploy in a daily life
 
-This is my own experiment on using Linux Deploy by meefik as something like a portable laptop in everyday life.
+This is my own experiment on using [Linux Deploy by meefik](https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy) as something like a portable laptop in everyday life.
 Hardware:
 - Device: Xiaomi Redmi 4X
-- ROM: Resurrection Remix 6.0.0 (Oreo) other ROM might work too.
+- ROM: [Resurrection Remix](https://www.resurrectionremix.com) 6.0.0 (Oreo) other ROM might work too.
 - Kernel: 3.18.71
 
 Linux Deploy settings:
