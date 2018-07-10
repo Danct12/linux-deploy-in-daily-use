@@ -123,3 +123,40 @@ VirtualGL doesn't work at all, GLXInfo segfaulted, glxgears doesn't work and bre
 Beside that, I got Arch Linux ARM running on my Zenfone Go (Z00VD) via framebuffer. I have to say that it *actually* works, but with OpenGL being software-rendered, there's no way to do hardware OpenGL on framebuffer, or at least no one did it yet. But I'm sure VirtualGL will work. But I can't use it as a daily driver, because it doesn't support USB OTG (blame ASUS).
 
 Rain's over, going back to home before it's doing it's raining job again.
+
+Day 10: (July 9, 2018)
+Did a fresh install of Arch Linux ARM, because the previous installation was ****ed up due to me installing MATE desktop and then switch back to i3. What a shame.
+
+I just customized i3status with font-awesome-4 (5 sucks), today I switched to another shop stop nearby, and for me it's a ok-ish experience here, it has another floor which you can see motorbikes and cars running around outside, including people walking around. :)
+
+I kinda like my new i3 setup tho, not kidding. But this time I don't use the status bar on top anymore, rather i use it at the bottom since the screen protector is covering the top bar, making it difficult for you to see.
+
+As well, instead of using Thunar, I'm with nautilus because it's a good file manager, I use it on my main PC too.
+
+Day 11: (July 10, 2018)
+Today on, I went on the same place again, and then they see me using this setup. They're interested in it and asking me serveral questions.
+
+That aside, I bought a new wired mouse and keyboard, since the previous wireless keyboard alt key was broken, which is pretty important, the total setup costs 160 000 vnd (about 6$ in US), not including the USB hub because I got one at home, and this one isn't working pretty well, don't know if it's the hub, but i'm sure it is since both kb and mouse decide to give up and disconnect in the same time. (or that might be just my phone circuit protection thing)
+
+And this wired keyboard is some fake Apple keyboard, but surprisingly works pretty well, sadly this is not a ideal keyboard for Linux since it doesn't have a SysRQ (Print Screen) key. And since it's a apple keyboard, seriously, they carved the Apple logo on the spacebar, which is pretty misleading, and it's not a sticker so you cannot tear it off, had to use a paper knife i got around trying to cut it off, sadly it screws up the feel, but that's okay, it's in the center which i dont touch much so... /shrug
+
+The mouse is a DELL MS111-P, it works pretty well anyway, just like a standard mouse that everyone uses, and it works pretty okay.
+
+The USB Hub is some no-name 7 ports USB hub, i'm sure this is the reason why my phone circuit protection thing kicks in and disable the hub.
+
+Anyway, if XServer XSDL can do 3D hardware acceleration (OpenGLES), this MIGHT be the end of netbooks.
+
+It's raining now and the sky has been like this for days, so I don't think I'll be back home anytime soon until the rain ends.
+
+I also switched to aurman instead of packer because packer went unmaintained (i know this before) and AUR 3.0 is causing duplicate files causing it not to install.
+
+Dammit forcedoze! It hanged my internet for just letting the screen down for less than a second. Here's my lesson, don't let the screen down if you're downloading something. (if you have disable mobile data and wifi)
+
+Anyway, I got GTK YouTube Viewer installed, and you know what? It does play YouTube videos just fine, make sure set the quality so you dont ran into a 4k quality on a small screen (and it'll burn out your CPU)
+See youtube360p.png.
+
+NOT ENOUGH FUN YET?? IT PLAYS 720P VIDEOS TOO! See youtube720p.png
+
+P.S: Never stream YouTube through browsers on this platform, it won't work :'(
+
+I changed the i3 config a little bit, for optimizing mpv and feh, since those things will always go tiling mode, and might be annoying for some people.

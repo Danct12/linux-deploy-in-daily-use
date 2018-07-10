@@ -1,9 +1,6 @@
 # Linux Deploy in a daily life
 
-**UNLOCKING BOOTLOADER, ROOT, MODDING YOUR DEVICE WILL VOID YOUR WARRANTY, AND MIGHT BE ABLE TO BRICK DEVICE (in both soft and hard), DO NOT MAKE ANY ISSUE THAT MY EXPERIMENT BRICKED YOUR PHONE OR DOING FUNKY STUFFS ON YOUR PHONE. IT'LL BE A MATERIAL FOR ME TO LAUGH AT.**
-
 This is my own experiment on using Linux Deploy by meefik as something like a portable laptop in everyday life.
-
 Hardware:
 - Device: Xiaomi Redmi 4X
 - ROM: Resurrection Remix 6.0.0 (Oreo) other ROM might work too.
