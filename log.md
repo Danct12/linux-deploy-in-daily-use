@@ -210,4 +210,8 @@ By the way this WiFi needs your (little) personal information if you want to go 
 
 Also I'll see if I can get WiFi Connect Utility to work with Android, it might be the same, but not exactly same, never tried so I don't know.
 
+**UPDATE:** I just checked WineHQ ARM page, and it was just recently updated a few days ago, they has some new information about emulating X86 apps on ARM: https://wiki.winehq.org/Emulation
 
+They mentioned a brand new project that I have never heard of called hangover, which you can run amd64 programs on arm64.
+
+So it might be possible to run BonziBUDDY on it, and play Windows solitaire. I'll try it when I get back home.
