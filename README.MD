@@ -14,6 +14,14 @@ Linux Deploy settings:
 - Graphics Mode used: [XServer XSDL](https://play.google.com/store/apps/details?id=x.org.server)
 - SSH: Enabled
 
+You can read the log in log.md file from this repo.
+
 # Image of the setup
+
+### Old Setup (Deprecated)
 ![alt text](https://cdn.discordapp.com/attachments/370595587097362456/459991563704074240/IMG_20180623_132656.jpg "IRL Setup of how it should be")
 
+### New Desktop Rice
+![alt text](Pictures/ricejuly112018.png "New Desktop Rice, might be bad")
+
+If you're interested in people with the same attitude, join our Discord server: https://discord.gg/AvtdRJ3

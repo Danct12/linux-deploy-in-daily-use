@@ -7,6 +7,7 @@
 [blu3bird84Channel]: https://www.youtube.com/channel/UC6sPjwb6XCjkmGZuaICi2PA
 [neovim.io]: https://neovim.io
 [fakeroot-tcp-aur]: https://aur.archlinux.org/packages/fakeroot-tcp
+[KernelAdiutor]: https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor
 
 # Day 1: (June 22, 2018)
 
@@ -189,3 +190,24 @@ Video by [blu3bird84][blu3bird84Channel]
 P.S: Never stream YouTube through browsers on this platform, it won't work :'(
 
 I changed the i3 config a little bit, for optimizing mpv and feh, since those things will always go tiling mode, and might be annoying for some people.
+
+# Day 12: (July 11, 2018)
+With a simple modification to acpilight, it is now compatible with Android, I can now just run it like you're running xbacklight on your laptop.
+
+One cool thing is that it's identical, the only thing Google changed is the path to the backlight stuff.
+
+I also riced my WM so it looks pretty good on eyes, and Discord goes fit with the theme. I use Equilux as my theme.
+
+![alt text](Pictures/ricejuly112018.png "My Rice")
+
+Excuse for the non-edited bottom bar, I was lazy lol.
+
+Just for your curiousity, the wallpaper is Firewatch, you can find it online.
+
+The next thing I'll do is making the battery manager thing to work with Android kernel, it might be interesting if someone here uses XFCE as their DE and needs a Power Manager, so you don't slip down the top bar.
+
+By the way this WiFi needs your (little) personal information if you want to go in, so I gave it fake information, the new Windows 10.
+
+Also I'll see if I can get WiFi Connect Utility to work with Android, it might be the same, but not exactly same, never tried so I don't know.
+
+
