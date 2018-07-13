@@ -215,3 +215,23 @@ Also I'll see if I can get WiFi Connect Utility to work with Android, it might b
 They mentioned a brand new project that I have never heard of called hangover, which you can run amd64 programs on arm64.
 
 So it might be possible to run BonziBUDDY on it, and play Windows solitaire. I'll try it when I get back home.
+
+# Day 13: (July 12, 2018)
+I was not able to compile Wine on ARM (just yet), because it requires a toolchain that supports Thumb, which mine doesn't have.
+
+However, you can use QEMU to run x86 on ARM, but you need a x86 chroot environment, and then you can do it just fine.
+
+Sadly, Internet right here is a bit crappy so I couldn't do it just yet.
+
+I'll do it when I'm back home, but that shouldn't be hard todo since if you can run bash x86 on qemu, it'll be possible to run everything else. The image size of chroot will be 4 GB, because I almost run out of space on this thing again, might see which is wasting so much spaces.
+
+Turns out it's just my Windows 98 image file i leftover, that thing was very slow af, so I don't think I will ever try emulating system again. (was expecting this)
+
+# Day 14: (July 13, 2018)
+Didn't managed to do the qemu + wine thing yet, because qemu-user-static doesn't work at all, the packages on debian for arm64 are all corrupted for some reason so it doesn't work.
+
+I'll try to look for a different source, might help.
+
+I think I'm starting to ditch bash, now I'm currently using zsh.
+
+
