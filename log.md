@@ -234,4 +234,12 @@ I'll try to look for a different source, might help.
 
 I think I'm starting to ditch bash, now I'm currently using zsh.
 
+# Day 15: (July 14, 2018)
+
+I don't know if I'll be able to keep up doing this, because the thing is that I couldn't get 3D Rendering on XServer XSDL via hardware, hopefully there'll be the same software but has 3D rendering.
+
+And compiling GZDoom on ARM is painful as hell, couldn't get it to compile even with OpenMP up, must be missing something. I'll keep trying.
+
+If I'll be able to get GZDoom on ARM, i'll make a update on this.
+
 
