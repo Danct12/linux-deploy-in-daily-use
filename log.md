@@ -242,4 +242,14 @@ And compiling GZDoom on ARM is painful as hell, couldn't get it to compile even 
 
 If I'll be able to get GZDoom on ARM, i'll make a update on this.
 
+# Day 16: (July 21, 2018)
 
+I got Doom to work!! And no, GZDoom is a pain to compile on ARM since it keep saying that it's missing OpenMP while I already have it installed, what a shame.
+
+But instead of GZDoom, PrBoom compiled very nicely, no errors and /r/itrunsdoom! It plays with almost no lag, this is something I have ever wanted to play on this experiment.
+
+Special thanks to @GaugeK#1452 from r/unixporn Discord for suggesting me PrBoom because of a video he posted on.
+
+If you want to join the unixporn discord here's the link: https://discord.gg/XPd2wet
+
+![alt text](Pictures/doomonlinuxdeploy.png "IT RUNS DOOM!?!?!?!")
