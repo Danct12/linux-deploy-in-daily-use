@@ -18,3 +18,4 @@
 - [X] Convert log.txt to Markdown format, for ease of read
 - [X] Brightness Control
 - [X] Battery Reporting (i3)
+- [X] Doom

@@ -253,3 +253,18 @@ Special thanks to @GaugeK#1452 from r/unixporn Discord for suggesting me PrBoom 
 If you want to join the unixporn discord here's the link: https://discord.gg/XPd2wet
 
 ![alt text](Pictures/doomonlinuxdeploy.png "IT RUNS DOOM!?!?!?!")
+
+# Day 17: (July 22, 2018)
+
+I got ACPI to report battery from Android, but this is way more accurate than Android I guess.
+
+With just a simple tweak in the source code, from charge_now to charge_counter, this has now working for Android phones, special thanks to gwimm from unixporn Discord for providing me the entire folder of his battery and let me analysis.
+
+![alt text](Pictures/acpiworking.png "Working battery reporting, just inaccurate?")
+
+This also has opened the door for many other power manager like XFCE4 Power Manager to finally know the amount of battery.
+
+Source code and ready to deploy package for 64-bit ARM are here:
+
+Ready to deploy package: https://cdn.discordapp.com/attachments/362104382516363265/470460528452698113/acpi-1.7_android-2-aarch64.pkg.tar.xz
+Source code: https://cdn.discordapp.com/attachments/362104382516363265/470461550109523978/acpi-1.7_android-source.tar.gz
