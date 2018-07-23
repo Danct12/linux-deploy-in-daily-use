@@ -268,3 +268,10 @@ Source code and ready to deploy package for 64-bit ARM are here:
 
 Ready to deploy package: https://cdn.discordapp.com/attachments/362104382516363265/470460528452698113/acpi-1.7_android-2-aarch64.pkg.tar.xz
 Source code: https://cdn.discordapp.com/attachments/362104382516363265/470461550109523978/acpi-1.7_android-source.tar.gz
+
+I also left it at home and charge, and you know what? It actually charges and for some really weird reason, after that the battery starts to show correct percentage.
+
+# Day 18: (July 23, 2018)
+I rericed my desktop, I wish I can submit it to unixporn but I think that no one will like it much :V
+
+https://imgur.com/a/sagzDCN

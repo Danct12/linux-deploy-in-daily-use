@@ -22,6 +22,6 @@ You can read the log in log.md file from this repo.
 ![alt text](https://cdn.discordapp.com/attachments/370595587097362456/459991563704074240/IMG_20180623_132656.jpg "IRL Setup of how it should be")
 
 ### New Desktop Rice
-![alt text](Pictures/ricejuly112018.png "New Desktop Rice, might be bad")
+https://imgur.com/a/sagzDCN
 
 If you're interested in people with the same attitude, join our Discord server: https://discord.gg/AvtdRJ3
