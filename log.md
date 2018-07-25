@@ -275,3 +275,36 @@ I also left it at home and charge, and you know what? It actually charges and fo
 I rericed my desktop, I wish I can submit it to unixporn but I think that no one will like it much :V
 
 https://imgur.com/a/sagzDCN
+
+# Day 19: (Evening, July 24, 2018)
+I tried to compile my phone kernel to add support for binfmt and sysvipc (if needed later), there are some #include error but I was able to get around that by changing the #include to correct file path. The kernel compiles just fine, but one problem:
+When I try to boot the kernel, terminal outputs: "dtb not found", which means that I can't boot the kernel.
+
+I don't know why, every tutorials I check online are just nothing, config the kernel and there it is, the zImage (32-bit ARM),  Image (64-bit ARM) are here, get that and flash to your phone, or just boot it, no external steps required.
+
+I was never able to find any guides on how to compile the kernel for this phone, but without rebuilding the kernel, it is impossible to make a x86 chroot on ARM and then chroot to it.
+
+Here's the kernel I use: https://github.com/Nikesh001/android_kernel_xiaomi_msm8937
+
+I'll try it later when I get back home, hopefully I'll be able to find a way to boot this kernel with dtb's.
+
+One thing I realized why dtb aren't copied properly after compiling kernel is that there are no Image-dtb, this makes me thinks that something is screwing up.
+
+# Day 20: (July 25, 2018)
+Today, I tried to compile kernel for my phone again, and finally, I compiled the kernel (probably) properly without modifying any sources.
+
+All I did was:
+- Download Google's Android Toolchain
+- Download kernel sources
+- Doing export CROSS_COMPILE and ARCH like usual, pretty much every tutorials will just tell you to do this.
+- Run make clean & make mrproper
+- make O=output santoni_defconfig
+- make O=output -j9
+
+Untested, but seems like Image.gz-dtb now compiles properly, I know this because both files (Image.gz, Image.gz-dtb) has different size than before, the dtb is sightly larger than the non-dtb by 6 MB, meaning that this file is compiled properly and can be run on a production phone.
+
+I'll try to boot it when I'm back home with my desktop computer.
+
+I'll be my own maintainer! :D
+
+Pushing the new commit now, will make another commit when I did something new.
