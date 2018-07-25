@@ -310,3 +310,13 @@ I'll be my own maintainer! :D
 Pushing the new commit now, will make another commit when I did something new.
 
 FYI, this was all done on my desktop PC with 8 GB of RAM and i7-6700k.
+
+### Continue of Day 20
+
+I got my kernel booted, but you have to make it into a boot.img file, for this you need Android Image Kitchen, and your boot.img.
+
+Unpack the boot image with AIK then go to split_img folder and change delete boot.img-zImage, then get your Image.gz-dtb to the same folder, rename it to the file that you just deleted (boot.img-zImage).
+
+After that, repack the image and you should be able to boot it through fastboot, if it actually boots to your kernel (you can confirm this by goto "About Phone"), check to see if all functions are working properly, then you can flash your new boot.img to your phone.
+
+![alt text]("https://cdn.discordapp.com/attachments/370595587097362456/471582806544482314/Screenshot_Settings_20180725-144112.png" "New Kernel!!!")
