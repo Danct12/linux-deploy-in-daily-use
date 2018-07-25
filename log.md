@@ -308,3 +308,5 @@ I'll try to boot it when I'm back home with my desktop computer.
 I'll be my own maintainer! :D
 
 Pushing the new commit now, will make another commit when I did something new.
+
+FYI, this was all done on my desktop PC with 8 GB of RAM and i7-6700k.
