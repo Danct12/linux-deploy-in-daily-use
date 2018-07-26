@@ -319,4 +319,11 @@ Unpack the boot image with AIK then go to split_img folder and change delete boo
 
 After that, repack the image and you should be able to boot it through fastboot, if it actually boots to your kernel (you can confirm this by goto "About Phone"), check to see if all functions are working properly, then you can flash your new boot.img to your phone.
 
-![alt text]("https://cdn.discordapp.com/attachments/370595587097362456/471582806544482314/Screenshot_Settings_20180725-144112.png" "New Kernel!!!")
+![alt text](https://cdn.discordapp.com/attachments/370595587097362456/471582806544482314/Screenshot_Settings_20180725-144112.png "New Kernel!!!")
+
+# Day 21: (July 26, 2018)
+Installing Debian chroot in a chroot, what's wrong?
+
+I think Debian is quite good for this kind of experiment, you probably don't want to install x86 binaries on an ARM.
+
+This way, I'll be able to install Wine and run x86 programs! I could have used pacstrap to install Arch but I don't want to do that.
