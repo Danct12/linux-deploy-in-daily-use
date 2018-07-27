@@ -327,3 +327,15 @@ Installing Debian chroot in a chroot, what's wrong?
 I think Debian is quite good for this kind of experiment, you probably don't want to install x86 binaries on an ARM.
 
 This way, I'll be able to install Wine and run x86 programs! I could have used pacstrap to install Arch but I don't want to do that.
+
+# Day 22: (July 27, 2018)
+I compiled Polybar with fixes for Android devices running Snapdragon, you can find the link to it on my Discord. https://discord.gg/AvtdRJ3
+
+![alt text](https://media.discordapp.net/attachments/466148602624868362/472293635447324672/2018-07-27-120417_1280x720_scrot.png "Polybar 1")
+![alt text](https://media.discordapp.net/attachments/466148602624868362/472293636021944330/2018-07-27-133018_221x55_scrot.png "Polybar 2")
+
+This is awesome, this is also one of the big thing I've done.
+
+To run Polybar on XServer XSDL, you need to enable the default monitor, you can check out wiki for tutorial on how.
+
+
