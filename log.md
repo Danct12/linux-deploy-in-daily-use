@@ -338,4 +338,11 @@ This is awesome, this is also one of the big thing I've done.
 
 To run Polybar on XServer XSDL, you need to enable the default monitor, you can check out wiki for tutorial on how.
 
+# Day 23: (July 28, 2018)
+I realized that this phone turns very very hot if you use Linux on a phone without a block of ice or air conditioner, and never use chrome without them because as soon you launch chrome, chg_temp turns insta 60 degrees.
+
+Also, I'll start trying to run x86 apps through Wine in a few days, it should work hopefully, and this will mark as new stuffs that has done. Keep in mind that it'll be slow because you're trying to emulate x86 on a non-x86 architecture.
+
+I saw Exagear running x86 programs, sadly it's a commercial product and some people claims that QEMU + Wine is way more better.
+
 
