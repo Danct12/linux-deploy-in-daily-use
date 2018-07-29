@@ -1,5 +1,7 @@
 # Linux Deploy in a daily life
 
+## THIS EXPERIMENT WILL STOP WHEN I'M ABLE TO RUN X86 PROGRAMS THROUGH WINE, CHECK TODO.MD
+
 This is my own experiment on using [Linux Deploy by meefik](https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy) as something like a portable laptop in everyday life.
 Hardware:
 - Device: Xiaomi Redmi 4X
