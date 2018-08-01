@@ -361,3 +361,9 @@ Anyway, mobile network is a pain in the ass to use, even they provided it free b
 Now I have to go to ~~Starbucks~~ Circle K to use their 2 MB/s Wi-Fi.
 
 I wonder.. if this will going well..?
+
+Beside that, welcome back to school, kids (or students)!
+
+Seems like Circle K is now full of people, and the network is throttling alot, so sometimes I get 1 MB/s and later on it turned to a piece of junk speed.
+
+At the current time writing, congrats for reaching 4,182 words, including this message.
