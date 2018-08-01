@@ -367,3 +367,9 @@ Beside that, welcome back to school, kids (or students)!
 Seems like Circle K is now full of people, and the network is throttling alot, so sometimes I get 1 MB/s and later on it turned to a piece of junk speed.
 
 At the current time writing, congrats for reaching 4,182 words, including this message.
+
+Seems like this has mark the end of this experiment, look at what I just did...
+
+![alt text](Pictures/wine.png "IT RUNS MINESWEEPER at 1 FPS")
+
+But there's only one checkmark that haven't done yet in TODO.MD, let's complete that and end this experiment.

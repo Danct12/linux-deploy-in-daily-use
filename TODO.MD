@@ -12,7 +12,7 @@
 - [X] Windows Compositor
 - [X] Using Linux Deploy in the public
 - [X] Play software rendered games
-- [ ] Wine/x86 on ARM
+- [X] Wine/x86 on ARM
 - [X] Emulate computer architectures (slow, qemu)
 - [X] Run Linux with more than a core
 - [X] Convert log.txt to Markdown format, for ease of read

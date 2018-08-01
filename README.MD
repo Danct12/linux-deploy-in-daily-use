@@ -16,7 +16,7 @@ Linux Deploy settings:
 - Graphics Mode used: [XServer XSDL](https://play.google.com/store/apps/details?id=x.org.server)
 - SSH: Enabled
 
-You can read the log in log.md file from this repo.
+You can read the log in [log.md](log.md) file from this repo.
 
 # Image of the setup
 
