@@ -345,4 +345,19 @@ Also, I'll start trying to run x86 apps through Wine in a few days, it should wo
 
 I saw Exagear running x86 programs, sadly it's a commercial product and some people claims that QEMU + Wine is way more better.
 
+# Day 24: (August 1st, 2018)
+Happy the 1st of August! Anyway, I downloaded Debian Stretch on my home PC, I'll go to Circle K to transfer the folder.
 
+Last time I did it with a dd image, it mounts on my home PC, but not on this phone, that's kinda weird, there's no helpful information regarding the error.
+
+Now this time, I'm doing it with just a folder, let's see how that goes.
+
+I'm not surprised but Debian folder is only 738 MB even after I installed Wine on it.
+
+Seems like Wine works but it doesn't work for me due to X11 Authentication Failure, pretty sure it's my fault for running it through a SSH X11 Tunnel.
+
+Anyway, mobile network is a pain in the ass to use, even they provided it free because I spent 2$ on the fund of the data.
+
+Now I have to go to ~~Starbucks~~ Circle K to use their 2 MB/s Wi-Fi.
+
+I wonder.. if this will going well..?
