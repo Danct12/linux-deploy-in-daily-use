@@ -373,3 +373,31 @@ Seems like this has mark the end of this experiment, look at what I just did...
 ![alt text](Pictures/wine.png "IT RUNS MINESWEEPER at 1 FPS")
 
 But there's only one checkmark that haven't done yet in TODO.MD, let's complete that and end this experiment.
+
+Ok ok, before we start doing that here's a picture of it running solitaire at 1 FPS
+![alt text](Pictures/winesolitaire.png "Solitaire at 1 FPS")
+
+(just kidding it doesn't run with 1 FPS)
+
+Anyway, it's very playable but I don't want to imagine playing old games on this (pls leave me alone i dont want to play those with 0.1 fps)
+
+Anyway, people are asking me to beat solitaire, I'll be uploading it to YouTube soon.
+
+Pinball works as well, which is cool!
+
+Here's the list of programs I tried:
+
+Programs that are known to run:
+WineMine
+Windows XP Solitaire (extracted from Install CD)
+WineFile
+3D Space Cadet!! (WOOO!!): RUNS VERY FAST WHOA!! :O
+Windows XP MSPaint
+
+Programs that are KIND of works:
+Wine Desktop
+
+Programs that are not gonna work:
+BonziBuddy: Installer kind of works, but then at the final stage of installing it crashes because of QEMU's unimplemented syscall. And the program doesn't run.
+VirtuaNES: Unimplemented syscall
+
