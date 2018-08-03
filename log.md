@@ -388,18 +388,18 @@ Pinball works as well, which is cool!
 Here's the list of programs I tried:
 
 Programs that are known to run:
-WineMine
-Windows XP Solitaire (extracted from Install CD)
-WineFile
-3D Space Cadet!! (WOOO!!): RUNS VERY FAST WHOA!! :O
-Windows XP MSPaint
+- WineMine
+- Windows XP Solitaire (extracted from Install CD)
+- WineFile
+- 3D Space Cadet!! (WOOO!!): RUNS VERY FAST WHOA!! :O
+- Windows XP MSPaint
 
 Programs that are KIND of works:
-Wine Desktop
+- Wine Desktop
 
 Programs that are not gonna work:
-BonziBuddy: Installer kind of works, but then at the final stage of installing it crashes because of QEMU's unimplemented syscall. And the program doesn't run.
-VirtuaNES: Unimplemented syscall
+- BonziBuddy: Installer kind of works, but then at the final stage of installing it crashes because of QEMU's unimplemented syscall. And the program doesn't run.
+- VirtuaNES: Unimplemented syscall
 
 # Day 25: (August 3rd, 2018)
 
