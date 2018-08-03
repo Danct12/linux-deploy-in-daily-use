@@ -401,3 +401,14 @@ Programs that are not gonna work:
 BonziBuddy: Installer kind of works, but then at the final stage of installing it crashes because of QEMU's unimplemented syscall. And the program doesn't run.
 VirtuaNES: Unimplemented syscall
 
+# Day 25: (August 3rd, 2018)
+
+At MiniStop once again, just as for something, I think I love this computer way more than my home PC! I'm still waiting for my x86 tablet to come back from warranty, after that it'll be my own laptop since no one uses it anymore.
+
+The reason why I love this computer is because I never got a laptop, ever before because I don't see a need for it.
+
+And the entire point of the experiment is to bring this setup to the public, like a coffee shop or something and see if someone notices it.
+
+The entire experiment was based on a Google video that was made in 2008, featuring a guy typing on a *small* phone like a desktop style. ( https://www.youtube.com/watch?v=Pgsw-NgDoFE )
+
+

@@ -1,8 +1,11 @@
 # Linux Deploy in a daily life
 
-## THIS EXPERIMENT WILL STOP WHEN I'M ABLE TO RUN X86 PROGRAMS THROUGH WINE, CHECK TODO.MD
+### Experiment has ended, thank you for participating with me on r/unixporn Discord.
 
 This is my own experiment on using [Linux Deploy by meefik](https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy) as something like a portable laptop in everyday life.
+
+The experiment is based on a Google video from 2008 featuring a guy typing on a flip phone that is shaped like a laptop. https://www.youtube.com/watch?v=Pgsw-NgDoFE
+
 Hardware:
 - Device: Xiaomi Redmi 4X
 - ROM: [Resurrection Remix](https://www.resurrectionremix.com) 6.0.0 (Oreo) other ROM might work too.
