@@ -411,4 +411,10 @@ And the entire point of the experiment is to bring this setup to the public, lik
 
 The entire experiment was based on a Google video that was made in 2008, featuring a guy typing on a *small* phone like a desktop style. ( https://www.youtube.com/watch?v=Pgsw-NgDoFE )
 
+# Update on this:
+
+Next week is the busy day so.. I don't have time to use the same setup much as we are.
+
+I'll probably bring my x86 tablet with the keyboard dock.
+
 
