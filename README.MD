@@ -1,6 +1,13 @@
 # Linux Deploy in a daily life
 
-### Experiment has ended, thank you for participating with me on r/unixporn Discord.
+### Experiment has ended, thank you for participating with me on r/unixporn Discord. Without the support of you guys, this experiment is not going to be possible to this day.
+Special thanks to:
+- u/diamondburned
+- r/unixporn Discord
+- DanctNIX Discord
+- Michael Arthur Long#1193 (Discord)
+- Exclusive support to my friends over teamwork.tf Discord, thank you!
+
 
 This is my own experiment on using [Linux Deploy by meefik](https://play.google.com/store/apps/details?id=ru.meefik.linuxdeploy) as something like a portable laptop in everyday life.
 
