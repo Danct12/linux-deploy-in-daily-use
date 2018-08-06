@@ -418,3 +418,5 @@ Next week is the busy day so.. I don't have time to use the same setup much as w
 I'll probably bring my x86 tablet with the keyboard dock.
 
 
+# Outside the experiment Day 26: (August 6, 2018)
+I'm sad now, it's school the next day, now this will be the last day we're been togheter, phone desktop. See you in the weekend, my friend. :(
