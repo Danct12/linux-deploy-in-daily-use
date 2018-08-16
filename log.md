@@ -420,3 +420,7 @@ I'll probably bring my x86 tablet with the keyboard dock.
 
 # Outside the experiment Day 26: (August 6, 2018)
 I'm sad now, it's school the next day, now this will be the last day we're been togheter, phone desktop. See you in the weekend, my friend. :(
+
+# Day 27: (August 16, 2018)
+I just learned about that Linux Deploy can use SysV Init, it can't run systemd because Android doesnt use systemd (kek).
+By the way, It's gonna be a fun trip to use a actual init system instead of run-parts.
