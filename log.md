@@ -424,3 +424,21 @@ I'm sad now, it's school the next day, now this will be the last day we're been 
 # Day 27: (August 16, 2018)
 I just learned about that Linux Deploy can use SysV Init, it can't run systemd because Android doesnt use systemd (kek).
 By the way, It's gonna be a fun trip to use a actual init system instead of run-parts.
+
+# Day 28: (August 17, 2018)
+I found a project on GitHub that actually change the OpenGL ES calls to OpenGL 1.x.
+
+I tried it and it works well, just except that it all was done through llvmpipe (expected because GPU acceleration does not exist on XServer XSDL just yet)
+
+The one problem is that it only supports OpenGL 1.x, meaning that the OpenGL app must be old enough to support 1.0.
+
+Nothing will run, even Chromium and Firefox gives up when run. GLXGears will not run, but GLXHeads run.
+
+It was a very WIP project tho, so I'm not surprised that things are not running properly.
+
+For your information, the project is actually called GLShim. GL4ES works, but it's for device spectific only (RPI, OPI,..), still very WIP because it was based on GLShim. :shrug:
+
+If you have a embedded device like RPI or Orange PI, whatever, it might work better.
+
+https://github.com/lunixbochs/glshim
+https://github.com/ptitSeb/gl4es
