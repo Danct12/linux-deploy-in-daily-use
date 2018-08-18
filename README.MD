@@ -30,10 +30,10 @@ You can read the log in [log.md](log.md) file from this repo.
 
 # Image of the setup
 
-### Old Setup (Deprecated)
-![alt text](https://cdn.discordapp.com/attachments/370595587097362456/459991563704074240/IMG_20180623_132656.jpg "IRL Setup of how it should be")
+### IRL Setup
+![alt text](https://i.redd.it/gfs94iljctg11.jpg "IRL Setup")
 
-### New Desktop Rice
-https://imgur.com/a/sagzDCN
+### Dotfiles and Screenshots
+https://github.com/Danct12/linux-deploy-daily-use-dotfiles
 
 If you're interested in people with the same attitude, join our Discord server: https://discord.gg/AvtdRJ3
