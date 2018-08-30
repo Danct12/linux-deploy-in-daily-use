@@ -442,3 +442,11 @@ If you have a embedded device like RPI or Orange PI, whatever, it might work bet
 
 https://github.com/lunixbochs/glshim
 https://github.com/ptitSeb/gl4es
+
+# Day 29: (August 25, 2018)
+I found out how you can use llvmpipe with GLX. You'll have to run a X session using Xephyr or set the color depth to 24BPP.
+
+I was able to run `glxgears`, `glxheads` and `glxspheres64` with not good performance but it's ARM CPU rendering so... /shrug
+
+# Day 30: (August 30, 2018)
+That's it guys, that's it for that day, we're no longer moving on with the project. I'm now very busy with the life.
