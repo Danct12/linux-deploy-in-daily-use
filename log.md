@@ -448,5 +448,5 @@ I found out how you can use llvmpipe with GLX. You'll have to run a X session us
 
 I was able to run `glxgears`, `glxheads` and `glxspheres64` with not good performance but it's ARM CPU rendering so... /shrug
 
-# Day 30: (August 30, 2018)
-That's it guys, that's it for that day, we're no longer moving on with the project. I'm now very busy with the life.
+# Day 30: (August 31, 2018)
+Got back to Circle K sitting here again after school, I finally don't have to kill my phone CPU again, Discline finally works fine on my phone and has most of the features in!
